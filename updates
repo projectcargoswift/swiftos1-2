@@ -1,7 +1,7 @@
 {
     "current_version": "strawberry",
-    "snapshot": "01w05r",
+    "snapshot": "01w06r",
     "packages": [
-        "example_package@1.0.0"
+        "deadman@1.0.0"
     ]
 }
